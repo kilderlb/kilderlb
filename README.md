@@ -98,11 +98,11 @@ Para mais detalhes sobre minha trajetória e projetos, acesse: "(https://www.ana
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="SPOTFIRE" 
+    title="SPOTFIRE"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://www.spotfire.com/blog/wp-content/uploads/migration/Spotfire-LTS-1200x630-1.jpg" 
 />
 <img 
     align="left" 
