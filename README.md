@@ -102,31 +102,15 @@ Para mais detalhes sobre minha trajetória e projetos, acesse: "(https://www.ana
     title="SPOTFIRE"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.spotfire.com/blog/wp-content/uploads/migration/Spotfire-LTS-1200x630-1.jpg" 
+    src="https://expertdigital.net/wp-content/uploads/2021/01/14-visualizacoes-essenciais-do-Data-Studio-para-profissionais-de-marketing-de-pesquisa-paga-1024x640.jpg"     
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="DATA STUDIO" 
+    title="DATA STUDIO"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://marketingdigitalschool.com.br/wp-content/uploads/2023/01/Curso-de-Google-Data-Studio-1024x1024.jpeg" 
 />
 <img 
     align="left" 
