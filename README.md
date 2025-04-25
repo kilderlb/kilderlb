@@ -30,71 +30,71 @@ Para mais detalhes sobre minha trajetória e projetos, acesse: "(https://www.ana
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://devicon-website.vercel.app/api/html5/original.svg"
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://devicon-website.vercel.app/api/mysql/original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="ORACLE" 
+    title="ORACLE"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    style="padding-right: 20px;" 
+    src="https://devicon-website.vercel.app/api/oracle/original.svg"
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="POSTGRE"
+    title="POSTGRE" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://devicon-website.vercel.app/api/postgresql/original.svg"
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="POWER BI"
+    title="POWER BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://www.domosolucoes.com.br/wp-content/uploads/2020/09/power-bi.jpg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="GAIO" 
+    title="GAIO"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3ng6AkmKm2oU2yVr8X_qJ9bLCbSFPDB4Ejyhtq2h4aEdRIlZJ-I25pjDfTWu4fMwiVo&usqp=CAU" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="PENTAHO"
+    title="PENTAHO" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7REBQs3u6kVeDbhyGr09xuFk6Wwoaa4H-K7GqsYk3c7r-GCCM3feoQwaFeH_JuHu8a_k&usqp=CAU" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="EXCEL" 
+    title="EXCEL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://chathamlibrary.wordpress.com/wp-content/uploads/2015/10/excel-logo.png" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="POWER QUERY" 
+    title="POWER QUERY"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://media.licdn.com/dms/image/D4D12AQHwSEps1hVPWA/article-cover_image-shrink_720_1280/0/1697402119420?e=2147483647&v=beta&t=qg5JBs1eR6t0b_cuHYv5Zm6n8hjmFcfUmYBKpJ-Vtok" 
 />
 <img 
     align="left" 
